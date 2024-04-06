@@ -1,6 +1,6 @@
 # Projekt Koszyka Zakupowego
 
-Projekt ten jest przykładową implementacją algorytmu dzielącego koszyk zakupowy na minimalną liczbę rodzajów dostaw. Zastosowałem język Java wraz z narzędziem Maven do budowy projektu. Dodatkowo, projekt wykorzystuje bibliotekę `json-simple` do obsługi formatu JSON i testowania jednostkowego przy użyciu JUnit 5.
+Projekt ten jest przykładową implementacją algorytmu dzielącego koszyk zakupowy na minimalną liczbę rodzajów dostaw. Zastosowałem język Java w wersji 21 wraz z narzędziem Maven do budowy projektu. Dodatkowo, projekt wykorzystuje bibliotekę `json-simple` do obsługi formatu JSON i testowania jednostkowego przy użyciu JUnit 5.
 
 ## Struktura Projektu
 
